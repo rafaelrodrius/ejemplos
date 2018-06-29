@@ -8,6 +8,15 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2018-06-29 15:10 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * ejemplos\ChangeLog.txt
+     * Updated.
+   * README.md
+     + Added warning on lack of synchronization with samples
+       repository.
+     + Added notice of deletion on 31/12/18 if no one starts
+       working on the repository.
+
 2018-04-06 20:20 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    * ejemplos\ChangeLog.txt
      * Updated.

@@ -5,3 +5,7 @@ Guías generales para la publicación de ejemplos:
 3. Si el ejemplo necesita archivos de terceros, indíquelo en el artículo e incluya un vínculo a los mismos.
 4. Si bien no existe limitación en el idioma a utilizar, trate de escribir en Inglés ya que ooHG es de uso mundial.
 5. Incluya tantos comentarios como sean necesarios para que el ejemplo sea comprensible.
+
+
+`IMPORTANTE: estos ejemplos no están sincronizados con los del repositorio SAMPLES y no reciben mantenimiento desde hace mucho tiempo.`
+`En caso de que nadie le dedique tiempo a esa tarea, el repositorio será eliminado el 31/12/2018.`
