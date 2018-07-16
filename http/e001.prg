@@ -1,6 +1,6 @@
 /*
  * Ejemplo Http n° 1
- * Author: Fernando Yurisich <fernando.yurisich@gmail.com>
+ * Author: Fernando Yurisich <fyurisich@oohg.org>
  * Licenciado bajo The Code Project Open License (CPOL) 1.02
  * Ver <http://www.codeproject.com/info/cpol10.aspx>
  *
